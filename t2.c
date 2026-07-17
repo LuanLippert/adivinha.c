@@ -3,7 +3,7 @@
 
 //#define numt 5 //declarando constante (algo que não muda)
 
-int main(){
+void main(){
 
     int numeros = 30;
     int chute;
